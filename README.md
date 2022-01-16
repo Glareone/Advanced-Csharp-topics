@@ -19,7 +19,7 @@ var number = repository.GetValueAsync().Result;
 var number_result = await repository.GetValueAsync();  
  ```
 
-Example is here: [https://github.com/Glareone/C-Advices/blob/899ad6a8e8e912d201302ecaa8cdd5c1b72b73f2/Async/Async_Mistakes/Async_Mistakes/OnceAsyncAlwaysAsync/Program.cs#L15](Once_Async_Always_Async)
+Example is here: [Once Async Always Async](https://github.com/Glareone/C-Advices/blob/899ad6a8e8e912d201302ecaa8cdd5c1b72b73f2/Async/Async_Mistakes/Async_Mistakes/OnceAsyncAlwaysAsync/Program.cs#L15)
 
 ### Async void is BAD
 * in progress
