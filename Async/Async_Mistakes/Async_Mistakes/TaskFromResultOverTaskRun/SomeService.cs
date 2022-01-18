@@ -1,6 +1,5 @@
 ﻿namespace TaskFromResultOverTaskRun
 {
-    using System;
     using System.Threading.Tasks;
 
     public class SomeService
@@ -19,11 +18,6 @@
         public async ValueTask<int> GetMultipliedValueAsync3(int number)
         {
             return await new ValueTask<int>(number * 3);
-        }
-
-        private Task<ValueTask<int>> ValueTask(int v)
-        {
-            throw new NotImplementedException();
         }
     }
 }
