@@ -15,6 +15,7 @@ Async materials are here: [Async materials](https://github.com/Glareone/C-Advice
 ## Logging
 
 ## GC, IDisposable, Finalizer
-GC and related materials are here: [GC Materials](https://github.com/Glareone/C-Advices/tree/main/GC,%20IDisposable,%20Finalizer)
+GC and related materials are here: [GC Materials](https://github.com/Glareone/C-Advices/tree/main/GC,%20IDisposable,%20Finalizer)  
+.Netos slides\goodies: [https://goodies.dotnetos.org](https://goodies.dotnetos.org/)  
 
 ## Nullable Reference Types
