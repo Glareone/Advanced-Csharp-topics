@@ -30,12 +30,14 @@ After Mark Phase we definitely know which objects are not reachable and now beco
 Algorithm For .Net specific GC Garbage Collector:
 1) Collect the roots into "visit list" (names the mark stack, FIFO)
 2) and for each Address (addr) in a stack:  
-  a) set pinning flag (sets in a object's HEADER, making this object unmovable in memory for GC, adding "pinned root" to the object) - feasible in C# using ```unsafe { fixed (int *x = &your_instance.local_variable_x) }```
+  a) translate reference into object reference (optional, only in case your address not directly refer to object, rare case) 
+  b) set pinning flag (sets in a object's HEADER, making this object unmovable in memory for GC, adding "pinned root" to the object) - feasible in C# using ```unsafe { fixed (int *x = &your_instance.local_variable_x) }```
   A pinned object is one that has a set location in memory. Normally the garbage collector will compact the managed heap, which changes the location of the objects in memory. If you have some unmanaged code that refers to some C# object you have created you may want to be able to reference the memory location absolutely. Pinning the object enables you to do this with certainty. More: [pinned in .net](https://www.microsoft.com/en-us/download/details.aspx?id=55984)
   
-    b) start traversal (visit other references from this object)
+    c) start traversal (visit other references from this object)
       * Skip already visited objects
       * mark object
+      * add object's address to the mark list (only if it will not overflow the stack, GC Optimization)
       * add mark to Mark Stack
 
 
