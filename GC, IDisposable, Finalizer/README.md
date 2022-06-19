@@ -17,4 +17,7 @@
 Whole pack of slides are here: [Goodies at dotnetos.org, PDF](https://goodies.dotnetos.org/files/02.%20NET%20GC%20Internals%20-%20Mark%20phase.pdf)
 
 ![image](https://user-images.githubusercontent.com/4239376/174496130-d0fd2047-8e94-4bae-a350-1dbaba7de5ee.png)
+After Mark Phase we definitely know which objects are not reachable and now become garbage for us:  
+![image](https://user-images.githubusercontent.com/4239376/174496593-520d5d0a-e0b1-4917-a583-764c85716103.png)
+
 
