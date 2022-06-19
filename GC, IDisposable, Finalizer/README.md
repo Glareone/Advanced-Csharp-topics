@@ -14,7 +14,7 @@
 
 ## Object Graph, Mark Phase:
 
-Whole pack of slides are here: (Goodies at dotnetos.org, PDF)[https://goodies.dotnetos.org/files/02.%20NET%20GC%20Internals%20-%20Mark%20phase.pdf]
+Whole pack of slides are here: [Goodies at dotnetos.org, PDF](https://goodies.dotnetos.org/files/02.%20NET%20GC%20Internals%20-%20Mark%20phase.pdf)
 
 ![image](https://user-images.githubusercontent.com/4239376/174496130-d0fd2047-8e94-4bae-a350-1dbaba7de5ee.png)
 
