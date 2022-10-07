@@ -19,3 +19,8 @@ GC and related materials are here: [GC Materials](https://github.com/Glareone/C-
 .Netos slides\goodies: [https://goodies.dotnetos.org](https://goodies.dotnetos.org/)  
 
 ## Nullable Reference Types
+
+## Console App with Generic Host. Running application from pipeline.
+
+**Allows to run any Tasks and use Host services lifetime. Might be useful to run EF DBMigrations from Pipeline or from another place**
+https://dfederm.com/building-a-console-app-with-.net-generic-host/
