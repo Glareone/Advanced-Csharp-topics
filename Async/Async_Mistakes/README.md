@@ -1,3 +1,8 @@
+# Async Principles
+
+![image](https://user-images.githubusercontent.com/4239376/197389621-32d9199e-6b6a-4b12-9daa-cb6306ca28b8.png)
+
+
 # Async
 ### Once Async Always Async
 * This means if you somewhere start using async - you should try to use it through your whole flow. It gives you lots of benefits.
