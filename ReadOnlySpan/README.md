@@ -45,3 +45,6 @@ https://github.com/dotnet/corefx/blob/master/src/Common/src/CoreLib/System/Span.
 
 ## System.ReadOnlySpan
 This represents a type-safe and memory-safe read-only representation of an arbitrary contiguous area of memory.
+
+## ReadOnlySpan vs String. Benchmark.
+![image](https://user-images.githubusercontent.com/4239376/210281651-a0b15bb3-24e2-42e6-9b06-963d84b380ad.png)
