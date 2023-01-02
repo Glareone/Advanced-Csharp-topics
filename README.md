@@ -7,7 +7,7 @@ Covered topics
 &#9744; Nullable Reference Types   
 &#9745; Worker (CPU-bound) & Completion (I\O-bound) Threads  [Worker & CompletionThreads.pptx](https://github.com/Glareone/Advanced-C-topics-and-advices/files/8886222/Worker.CompletionThreads.pptx)  
 &#9744; GC, IDisposable, and Finalizer (in progress) GC and related materials are here: [GC Materials](https://github.com/Glareone/C-Advices/tree/main/GC,%20IDisposable,%20Finalizer)  
-&#9744; ReadOnlySpan, **ref struct** and how to not allocate extra memory in heap [ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan)  
+&#9745; ReadOnlySpan, **ref struct** and how to not allocate extra memory in heap [ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan)  
 &#9744; PeriodicTimer. Proper timer which takes into account when new task starts and ends  
 &#9744; Delegates. Delegates use cases in C#10  
 &#9744; Benchmarks in Dotnet  
