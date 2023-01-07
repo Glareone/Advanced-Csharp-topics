@@ -17,6 +17,9 @@ Covered topics
 &#9744;  Benchmarking WebAPI and GC utilization in it. CQRS Cost. 
   - Cost of CQRS. SPOILER: Around 5-8% depends on amount of memory allocated for your container with running application.
 
+&#9744; Data Structures
+  - [MIT 6.851. "Advanced Data Structures" Course](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+
 ## Async
 Async materials are here: [Async materials](https://github.com/Glareone/C-Advices/tree/main/Async/Async_Mistakes)
 
