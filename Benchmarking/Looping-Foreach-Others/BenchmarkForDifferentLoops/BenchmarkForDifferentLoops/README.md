@@ -1,10 +1,12 @@
 # Benchmark
 
 ## Benchmarking loops
+Code is here: [Benchmarking Loops - code](https://github.com/Glareone/C-Advices/tree/main/Benchmarking/Looping-Foreach-Others/BenchmarkForDifferentLoops/BenchmarkForDifferentLoops/Benchmark.cs)
 
 Here I want to show you the difference between looping methods in terms of performance and memory allocation:  
-* For
-* Foreach
+* for
+* foreach
+* Linq ForEach
 * Parallel.ForEach
 * AsParallel.ForAll
 

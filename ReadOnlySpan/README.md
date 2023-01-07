@@ -12,7 +12,7 @@ https://www.codemag.com/Article/2207031/Writing-High-Performance-Code-Using-Span
 https://github.com/dotnet/corefx/blob/master/src/Common/src/CoreLib/System/Span.cs
 
 #### My little code example to show the essential idea of ReadOnlySpan:
-[ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan/Repo)
+[ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan/Repo/ReadOnlySpanDemonstration/ReadOnlySpanDemonstration/SubstringWithSpanAndWithout.cs)
 
 #### The following are the characteristics of Span<T> at a glance:
 
