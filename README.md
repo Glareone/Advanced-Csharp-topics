@@ -12,7 +12,10 @@ Covered topics
 &#9744; Delegates. Delegates use cases in C#10  
 &#9745; Benchmarks in Dotnet (Could be found in ReadOnlySpan repo)  
   - [Benchmark: Loops with Linq, Parallel, and Span](https://github.com/Glareone/C-Advices/tree/main/Benchmarking/Looping-Foreach-Others/BenchmarkForDifferentLoops/BenchmarkForDifferentLoops)  
-  - [Benchmark memory: ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan/Repo) 
+  - [Benchmark memory: ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan/Repo)  
+  
+&#9744;  Benchmarking WebAPI and GC utilization in it. CQRS Cost. 
+  - Cost of CQRS. SPOILER: Around 5-8% depends on amount of memory allocated for your container with running application.
 
 ## Async
 Async materials are here: [Async materials](https://github.com/Glareone/C-Advices/tree/main/Async/Async_Mistakes)
