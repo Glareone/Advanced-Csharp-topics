@@ -10,6 +10,15 @@ Here I want to show you the difference between looping methods in terms of perfo
 * Parallel.ForEach
 * AsParallel.ForAll
 
+**As Bonus::**
+* for with Span
+* foreach with Span
+
+## Taking into account Span:
+Span is super useful not only when you work with strings and want to save some memory, but also when you are working with arrays or lists.  
+Span improves performance drastically even comparing with **for** which is the fastest sequential option and in some cases faster than **Parallel.ForEach()**
+
+## Not taking into account Span:
 The interesting story here that these methods perform differently with different amount of data in collection.  
 * For small collections **For** is a winner. 
 * For large collection - depends on processor your app is using. 
