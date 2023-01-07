@@ -10,7 +10,9 @@ Covered topics
 &#9745; [ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan), **ref struct** and how to not allocate extra memory in heap   
 &#9744; PeriodicTimer. Proper timer which takes into account when new task starts and ends  
 &#9744; Delegates. Delegates use cases in C#10  
-&#9744; Benchmarks in Dotnet (Could be found in ReadOnlySpan repo) [ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan/Repo)  
+&#9744; Benchmarks in Dotnet (Could be found in ReadOnlySpan repo)  
+  - [Loops](https://github.com/Glareone/C-Advices/tree/main/Benchmarking\Looping-Foreach-Others\BenchmarkForDifferentLoops\BenchmarkForDifferentLoops)  
+  - [ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan/Repo) 
 
 ## Async
 Async materials are here: [Async materials](https://github.com/Glareone/C-Advices/tree/main/Async/Async_Mistakes)
