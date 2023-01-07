@@ -11,7 +11,7 @@ Covered topics
 &#9744; PeriodicTimer. Proper timer which takes into account when new task starts and ends  
 &#9744; Delegates. Delegates use cases in C#10  
 &#9744; Benchmarks in Dotnet (Could be found in ReadOnlySpan repo)  
-  - [Loops](https://github.com/Glareone/C-Advices/tree/main/Benchmarking\Looping-Foreach-Others\BenchmarkForDifferentLoops\BenchmarkForDifferentLoops)  
+  - [Loops](https://github.com/Glareone/C-Advices/tree/main/Benchmarking/Looping-Foreach-Others/BenchmarkForDifferentLoops/BenchmarkForDifferentLoops)  
   - [ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan/Repo) 
 
 ## Async
