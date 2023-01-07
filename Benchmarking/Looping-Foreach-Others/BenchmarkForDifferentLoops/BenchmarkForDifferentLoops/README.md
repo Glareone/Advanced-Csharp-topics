@@ -41,4 +41,6 @@ The 2 times more between 10k items and 100k and same amount of memory with 100k 
 foreach uses **Enumerator** and **Next** approach when for transforms into **while**.
 
 ## for with Span in terms of Compiler
-minimal optimizations:
+minimal optimizations:  
+![image](https://user-images.githubusercontent.com/4239376/211155339-6c9b73af-61ad-42ed-a407-55584f1ef6b5.png)
+
