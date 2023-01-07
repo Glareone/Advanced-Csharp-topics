@@ -1,3 +1,4 @@
+using System.Runtime.InteropServices;
 using BenchmarkDotNet.Attributes;
 
 namespace BenchmarkForDifferentLoops;
@@ -44,6 +45,25 @@ public class Benchmark
             var item = x;
         });
     }
+    
+    [Benchmark]
+    public void ForSpan()
+    {
+        var collectionAsSpan = CollectionsMarshal.AsSpan(_collection);
+        for (var i = 0; i < collectionAsSpan.Length; i++)
+        {
+            var item = collectionAsSpan[i];
+        }
+    }
+
+    [Benchmark]
+    public void ForeachSpan()
+    {
+        foreach (var item in CollectionsMarshal.AsSpan(_collection))
+        {
+            var x = item;
+        }
+    }
 
     [Benchmark]
     public void PlinqForeach()
@@ -62,6 +82,4 @@ public class Benchmark
             var item = x;
         });
     }
-    
-    
 }
