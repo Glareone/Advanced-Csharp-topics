@@ -8,7 +8,11 @@ Covered topics
   - [Nullable Reference Types. Article in a Blog](https://thecodeblogger.com/2022/05/26/getting-started-on-nullable-reference-types/)  
 
 &#9745; Worker (CPU-bound) & Completion (I\O-bound) Threads  [Worker & CompletionThreads.pptx](https://github.com/Glareone/Advanced-C-topics-and-advices/files/8886222/Worker.CompletionThreads.pptx)  
-&#9744; GC, IDisposable, and Finalizer (in progress) GC and related materials are here: [GC Materials](https://github.com/Glareone/C-Advices/tree/main/GC,%20IDisposable,%20Finalizer)  
+&#9744; GC, IDisposable, and Finalizer (in progress) GC and related materials are here: 
+  - [GC Materials](https://github.com/Glareone/C-Advices/tree/main/GC,%20IDisposable,%20Finalizer)  
+  - [Resurrection in .Net, GC Generations](https://medium.com/@vasylsenko/resurrection-in-net-framework-e6c8108e2122)
+  - [GC internals by Konrad Kokosa on Youtube](https://www.youtube.com/watch?v=8i1Nv7wGsjk&list=PLpUkQYy-K8Y-wYcDgDXKhfs6OT8fFQtVm)
+
 &#9745; [ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan), **ref struct** and how to not allocate extra memory in heap   
 &#9744; PeriodicTimer. Proper timer which takes into account when new task starts and ends  
 &#9744; Delegates. Delegates use cases in C#10  
