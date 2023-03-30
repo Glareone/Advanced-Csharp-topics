@@ -17,7 +17,7 @@ Covered topics
   - .Netos slides\goodies: [https://goodies.dotnetos.org](https://goodies.dotnetos.org/)  
 
 &#9745; [ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan), **ref struct** and how to not allocate extra memory in heap   
-&#9744; PeriodicTimer. Proper timer which takes into account when new task starts and ends  
+&#9745; [PeriodicTimer, modern way how to run background tasks](https://github.com/Glareone/C-Advices/tree/main/PeriodicTimer/PeriodicTimer)  
 &#9744; Delegates. Delegates use cases in C#10  
 &#9745; Benchmarks in Dotnet (Could be found in ReadOnlySpan repo)  
   - [Benchmark: Loops with Linq, Parallel, and Span](https://github.com/Glareone/C-Advices/tree/main/Benchmarking/Looping-Foreach-Others/BenchmarkForDifferentLoops/BenchmarkForDifferentLoops)  
