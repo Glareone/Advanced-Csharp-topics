@@ -2,7 +2,7 @@ namespace PeriodicTimer;
 
 public sealed class OutdatedRepeatingService: BackgroundService
 {
-    private ILogger<OutdatedRepeatingService> _logger;
+    private readonly ILogger<OutdatedRepeatingService> _logger;
 
     public OutdatedRepeatingService(ILogger<OutdatedRepeatingService> logger)
     {

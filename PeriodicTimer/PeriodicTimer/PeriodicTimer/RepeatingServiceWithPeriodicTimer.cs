@@ -3,6 +3,7 @@ using System.Threading;
 
 public class RepeatingServiceWithPeriodicTimer: BackgroundService
 {
+    // run new task each second
     private readonly PeriodicTimer _timer = new(TimeSpan.FromMilliseconds(1000));
     private readonly ILogger<RepeatingServiceWithPeriodicTimer> _logger;
 
