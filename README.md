@@ -3,7 +3,8 @@ In this repository I will try to explain good concepts regarding Async, regardin
 
 Covered topics  
 &#9745; Async
-  - Async materials are here: [Async materials](https://github.com/Glareone/C-Advices/tree/main/Async/Async_Mistakes)
+  - Async materials are here: [Async materials](https://github.com/Glareone/C-Advices/tree/main/Async/Async_Mistakes)  
+  - Async void pitfalls (in progress)
 
 &#9744; Logging  
 &#9745; Nullable Reference Types   
