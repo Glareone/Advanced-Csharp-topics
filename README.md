@@ -35,7 +35,7 @@ Covered topics
   - Dynamic in modern C# (in progress)
   - Reflections and its performance in NET8 Preview (in progress)
  
-&#9744; Console App with Generic Host. Running application from the pipeline. (useful for DB Migration)
+&#9745; Console App with Generic Host. Running application from the pipeline. (useful for DB Migration)
 
 **Allows to run any Tasks and use Host services lifetime. Might be useful to run EF DBMigrations from Pipeline or from another place**
 https://dfederm.com/building-a-console-app-with-.net-generic-host/
