@@ -2,7 +2,8 @@
 In this repository I will try to explain good concepts regarding Async, regarding Logging and so on.
 
 Covered topics  
-&#9745; Async
+&#9745; Async  
+&#9745; IAsyncEnumerable. [Async Streams and when to use async before foreach](https://learn.microsoft.com/en-us/answers/questions/1046784/c-async-streams-when-to-use-await-before-foreach)  
   - Async materials are here: [Async materials](https://github.com/Glareone/C-Advices/tree/main/Async/Async_Mistakes)  
   - Async void pitfalls (in progress)
 
