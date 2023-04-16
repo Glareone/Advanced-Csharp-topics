@@ -10,6 +10,8 @@ Covered topics
 &#9745; Nullable Reference Types   
   - [Nullable Reference Types. Article in a Blog](https://thecodeblogger.com/2022/05/26/getting-started-on-nullable-reference-types/)  
 
+&#9744; Validation. Settings Validation  
+
 &#9745; Worker (CPU-bound) & Completion (I\O-bound) Threads  [Worker & CompletionThreads.pptx](https://github.com/Glareone/Advanced-C-topics-and-advices/files/8886222/Worker.CompletionThreads.pptx)  
 &#9744; GC, IDisposable, and Finalizer (in progress) GC and related materials are here: 
   - [GC Materials](https://github.com/Glareone/C-Advices/tree/main/GC,%20IDisposable,%20Finalizer)  
@@ -39,3 +41,7 @@ Covered topics
 
 **Allows to run any Tasks and use Host services lifetime. Might be useful to run EF DBMigrations from Pipeline or from another place**
 https://dfederm.com/building-a-console-app-with-.net-generic-host/
+
+&#9744; EntityFramework vs Dapper. Improving speed of EntityFramework  (in progress)  
+&#9744; Kafka meets .Net6  (in progress)  
+&#9745; [GraphQL meets .Net6](https://github.com/Glareone/GraphQL-meets-.Net6)   
