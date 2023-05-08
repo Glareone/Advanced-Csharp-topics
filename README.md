@@ -11,6 +11,7 @@ Covered topics
 &#9745; Nullable Reference Types   
   - [Nullable Reference Types. Article in a Blog](https://thecodeblogger.com/2022/05/26/getting-started-on-nullable-reference-types/)  
 
+&#9744; Prevent from decompiling your C#-application  
 &#9744; Validation. Settings Validation  
 &#9745; [.editorconfig](https://github.com/Glareone/C-Advices/tree/main/editorconfig/BlazorAppWithEditorConfig)
   - Good Explanation: [EditorConfig in VisualStudio in 10 minutes](https://www.youtube.com/watch?v=CQW5b58mPdg)
