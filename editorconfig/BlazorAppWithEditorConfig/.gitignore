@@ -1,0 +1,63 @@
+# IntelliJ Rider
+.idea
+
+# Compiled binaries
+*/bin/*
+*/obj/*
+
+# Generated files
+*.user
+
+# Cache files
+*.suo
+*.resharper
+
+# Other
+.DS_Store
+
+# C#
+
+# Build results
+/bin/
+/obj/
+
+# Packages
+/packages/
+
+# Visual Studio
+**/Thumbs.db
+
+# User-specific files
+*.sln.user
+
+# Build Results of an ATL Project
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.ReSharper
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
