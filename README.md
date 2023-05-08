@@ -13,6 +13,7 @@ Covered topics
 
 &#9744; Validation. Settings Validation  
 &#9745; [.editorconfig](https://github.com/Glareone/C-Advices/tree/main/editorconfig/BlazorAppWithEditorConfig)
+  - Good Explanation: [EditorConfig in VisualStudio in 10 minutes](https://www.youtube.com/watch?v=CQW5b58mPdg)
 
 &#9745; Worker (CPU-bound) & Completion (I\O-bound) Threads  [Worker & CompletionThreads.pptx](https://github.com/Glareone/Advanced-C-topics-and-advices/files/8886222/Worker.CompletionThreads.pptx)  
 &#9744; GC, IDisposable, and Finalizer (in progress) GC and related materials are here: 
