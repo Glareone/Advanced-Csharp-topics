@@ -49,7 +49,7 @@ https://dfederm.com/building-a-console-app-with-.net-generic-host/
 &#9744; EntityFramework vs Dapper. Improving speed of EntityFramework  (in progress)  
 &#9744; Kafka meets .Net6  (in progress)  
 &#9745; [GraphQL meets .Net6](https://github.com/Glareone/GraphQL-meets-.Net6)   
-&#9744 Bloom Filter (in progress. Could be found below)
+&#9744; Bloom Filter (in progress. Could be found below)
 
 <details>
 <summary>Bloom Filter. Pros and Cons. Types. Use Cases</summary>
