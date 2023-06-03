@@ -12,7 +12,7 @@ You may find code here: https://github.com/Glareone/Advanced-Csharp-topics/tree/
 
 Benchmark results:  
 * Methods called directly, using reflection, using dynamic and using dynamic ExpandoObject  
-![image](https://github.com/Glareone/Advanced-Csharp-topics/assets/4239376/97ba19bc-66da-486b-8d23-2c0456ebb815)
+![image](https://github.com/Glareone/Advanced-Csharp-topics/assets/4239376/97ba19bc-66da-486b-8d23-2c0456ebb815)  
 Usually reflection is a bit faster than dynamic method. And it's a bit slower if you pass both parameters to method. Very interesting.  
 ![image](https://github.com/Glareone/Advanced-Csharp-topics/assets/4239376/a01e651d-deab-4637-8481-535d76ffddff)
 
