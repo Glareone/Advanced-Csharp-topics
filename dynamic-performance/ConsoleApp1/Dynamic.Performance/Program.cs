@@ -2,7 +2,11 @@
 using BenchmarkDotNet.Running;
 using Dynamic.Performance;
 
-BenchmarkRunner.Run<BenchmarkingDynamic>();
+// Allocation Benchmark 
+BenchmarkRunner.Run<BenchmarkingDynamicAllocation>();
+
+// Benchmarking class method
+BenchmarkRunner.Run<BenchmarkingDynamicMethodCall>();
 return;
 
 // Simple trivial examples of how we can use dynamic with known type and with ExpandoObject

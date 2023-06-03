@@ -4,7 +4,7 @@ using BenchmarkDotNet.Attributes;
 namespace Dynamic.Performance;
 
 [MemoryDiagnoser(false)]
-public class BenchmarkingDynamic
+public class BenchmarkingDynamicAllocation
 {
     private readonly Person[] _items =
     {
