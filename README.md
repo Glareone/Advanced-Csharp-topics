@@ -64,4 +64,5 @@ https://dfederm.com/building-a-console-app-with-.net-generic-host/
 ![image](https://github.com/Glareone/Advanced-Csharp-topics/assets/4239376/88d10779-5ba2-4ce7-a88a-1f1e8f807f51)
 </details>
 
-&#9745; [Dynamic. Performance. Comparison](https://github.com/Glareone/Advanced-Csharp-topics/blob/main/dynamic-performance/ConsoleApp1/README.md)
+&#9745; [Dynamic. Performance. Comparison](https://github.com/Glareone/Advanced-Csharp-topics/blob/main/dynamic-performance/ConsoleApp1/README.md)  
+&#9744; Retries in .Net
