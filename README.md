@@ -1,4 +1,5 @@
 # Advanced C# topics and pieces of advice.
+## Practical Part
 In this repository I will try to explain good concepts regarding Async, regarding Logging and so on.
 
 Covered topics  
@@ -65,4 +66,11 @@ https://dfederm.com/building-a-console-app-with-.net-generic-host/
 </details>
 
 &#9745; [Dynamic. Performance. Comparison](https://github.com/Glareone/Advanced-Csharp-topics/blob/main/dynamic-performance/ConsoleApp1/README.md)  
-&#9744; Retries in .Net
+
+&#9744; Retries in .Net  
+&#9744; String.Create (example from Dave is in the section below) 
+<details>
+<summary>String.Create example (let us not allocating extra space when we tend to construct the string). Faster than String.Join and String Interpolation</summary>
+
+![image](https://github.com/Glareone/Grokking-Algorithms-LeetCode-DesignGurus/assets/4239376/2dc93afb-7605-4c19-a6a0-d654e025cea1)
+</details>
