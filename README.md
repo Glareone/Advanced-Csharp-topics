@@ -8,7 +8,10 @@ Covered topics
   - Async materials are here: [Async materials](https://github.com/Glareone/C-Advices/tree/main/Async/Async_Mistakes)  
   - Async void pitfalls (in progress)
 
-&#9744; Logging  
+&#9745; Logging in minimalAPI: 
+  - [Logging using JsonFormat and W3C](https://github.com/Glareone/Minimal-API-.Net6/blob/main/Chapters/MinimalAPI/Chapter05-Logging)  
+  - [Logging using Serilog and AppInsights](https://github.com/Glareone/Minimal-API-.Net6/tree/main/Chapters/MinimalAPI/Chapter05-Logging-Serilog)
+
 &#9745; Nullable Reference Types   
   - [Nullable Reference Types. Article in a Blog](https://thecodeblogger.com/2022/05/26/getting-started-on-nullable-reference-types/)  
 
