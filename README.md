@@ -16,7 +16,18 @@ Covered topics
   - [Nullable Reference Types. Article in a Blog](https://thecodeblogger.com/2022/05/26/getting-started-on-nullable-reference-types/)  
 
 &#9744; Prevent from decompiling your C#-application  
-&#9744; Validation. Settings Validation  
+&#9744; Validation. Settings Validation   
+  - [Fluent Validation in MinimalAPI](https://github.com/Glareone/Minimal-API-.Net6/tree/main/Chapters/MinimalAPI/Chapter06-Model-FluentValidation)  
+  - IValidation (in progress)  
+
+&#9745; [Authentication using JWT](https://github.com/Glareone/Minimal-API-.Net6/tree/main/Chapters/MinimalAPI/Chapter09-Authentication)  
+&#9745; Authorization  
+  - [Role-based](https://github.com/Glareone/Minimal-API-.Net6/blob/main/Chapters/MinimalAPI/Chapter09-Authentication-AuthorizationClaims/MapHelper/RoleBasedAdminEndpointHelper.cs)  
+  - [Policy-based](https://github.com/Glareone/Minimal-API-.Net6/blob/main/Chapters/MinimalAPI/Chapter09-Authentication-AuthorizationClaims/MapHelper/PolicyBasedEndpointHelper.cs)  
+  - [Policy-Requirement. Custom Policy](https://github.com/Glareone/Minimal-API-.Net6/blob/main/Chapters/MinimalAPI/Chapter09-Authentication-AuthorizationClaims/MapHelper/PolicyRequirementProtectedEndpointHelper.cs)  
+  - [Fallback & Default Policies](https://github.com/Glareone/Minimal-API-.Net6/blob/main/Chapters/MinimalAPI/Chapter09-Authentication-AuthorizationClaims/Program.cs#L66)  
+  - [Anonymous](https://github.com/Glareone/Minimal-API-.Net6/blob/main/Chapters/MinimalAPI/Chapter09-Authentication-AuthorizationClaims/MapHelper/AnonymousEndpoints.cs)   
+
 &#9745; [.editorconfig](https://github.com/Glareone/C-Advices/tree/main/editorconfig/BlazorAppWithEditorConfig)
   - Good Explanation: [EditorConfig in VisualStudio in 10 minutes](https://www.youtube.com/watch?v=CQW5b58mPdg)
 
