@@ -41,9 +41,13 @@ Covered topics
 &#9745; [ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan), **ref struct** and how to not allocate extra memory in heap   
 &#9745; [PeriodicTimer, modern way how to run background tasks](https://github.com/Glareone/C-Advices/tree/main/PeriodicTimer/PeriodicTimer)  
 &#9744; Delegates. Delegates use cases in C#10  
-&#9745; Benchmarks in Dotnet (Could be found in ReadOnlySpan repo)  
+&#9745; Benchmarks  
   - [Benchmark: Loops with Linq, Parallel, and Span](https://github.com/Glareone/C-Advices/tree/main/Benchmarking/Looping-Foreach-Others/BenchmarkForDifferentLoops/BenchmarkForDifferentLoops)  
   - [Benchmark memory: ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan/Repo)  
+  - [Benchmark results: MinimalAPI vs ControllerAPI](https://github.com/Glareone/Minimal-API-.Net6/blob/main/README.md#compare-controllers-vs-minimalapi)  
+  - [Benchmarking Minimal API using K6](https://github.com/Glareone/Minimal-API-.Net6/tree/main/Chapters/MinimalAPI/Chapter11-Performance-Benchmark-K6-BenchmarkDotNet)  
+  - [Benchmarking Controller APi using K6](https://github.com/Glareone/Minimal-API-.Net6/tree/main/Chapters/MinimalAPI/Chapter11-2-Controllers-K6-BenchmarkDotNet)  
+  - [Benchmarking API using BenchmarkDotNet. Benchmark Runner](https://github.com/Glareone/Minimal-API-.Net6/tree/main/Chapters/MinimalAPI/Chapter11-BenchmarkDotNet-Runner-forAPI)  
   
 &#9744;  Benchmarking WebAPI and GC utilization in it. CQRS Cost. 
   - [Little CQRS + .Net5 project example](https://github.com/Glareone/CQRS-with-MediatR-.Net5)
