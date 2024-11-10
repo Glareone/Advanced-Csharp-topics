@@ -2,7 +2,7 @@
 ## Practical Part
 In this repository I will try to explain good concepts regarding Async, regarding Logging and so on.
 
-Covered topics  
+# Topics
 &#9745; Async  
 &#9745; IAsyncEnumerable. [Async Streams and when to use async before foreach](https://learn.microsoft.com/en-us/answers/questions/1046784/c-async-streams-when-to-use-await-before-foreach)  
   - Async materials are here: [Async materials](https://github.com/Glareone/C-Advices/tree/main/Async/Async_Mistakes)  
@@ -20,6 +20,8 @@ Covered topics
   - [Fluent Validation in MinimalAPI](https://github.com/Glareone/Minimal-API-.Net6/tree/main/Chapters/MinimalAPI/Chapter06-Model-FluentValidation)  
   - IValidation (in progress)  
 
+## Authentication & Authorization
+
 &#9745; [Authentication using JWT](https://github.com/Glareone/Minimal-API-.Net6/tree/main/Chapters/MinimalAPI/Chapter09-Authentication)  
 &#9745; Authorization  
   - [Role-based](https://github.com/Glareone/Minimal-API-.Net6/blob/main/Chapters/MinimalAPI/Chapter09-Authentication-AuthorizationClaims/MapHelper/RoleBasedAdminEndpointHelper.cs)  
@@ -28,7 +30,9 @@ Covered topics
   - [Fallback & Default Policies](https://github.com/Glareone/Minimal-API-.Net6/blob/main/Chapters/MinimalAPI/Chapter09-Authentication-AuthorizationClaims/Program.cs#L66)  
   - [Anonymous](https://github.com/Glareone/Minimal-API-.Net6/blob/main/Chapters/MinimalAPI/Chapter09-Authentication-AuthorizationClaims/MapHelper/AnonymousEndpoints.cs)   
 
-&#9745; [.editorconfig](https://github.com/Glareone/C-Advices/tree/main/editorconfig/BlazorAppWithEditorConfig)
+## Other materials
+
+&#9745; [.editorconfig](https://github.com/Glareone/Advanced-Csharp-topics/tree/main/editorconfig/BlazorAppWithEditorConfig)
   - Good Explanation: [EditorConfig in VisualStudio in 10 minutes](https://www.youtube.com/watch?v=CQW5b58mPdg)
 
 &#9745; Worker (CPU-bound) & Completion (I\O-bound) Threads  [Worker & CompletionThreads.pptx](https://github.com/Glareone/Advanced-C-topics-and-advices/files/8886222/Worker.CompletionThreads.pptx)  
@@ -40,7 +44,13 @@ Covered topics
 
 &#9745; [ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan), **ref struct** and how to not allocate extra memory in heap   
 &#9745; [PeriodicTimer, modern way how to run background tasks](https://github.com/Glareone/C-Advices/tree/main/PeriodicTimer/PeriodicTimer)  
+
+## Delegates and usecases
+
 &#9744; Delegates. Delegates use cases in C#10  
+
+## Benchmarking the different usecases
+
 &#9745; Benchmarks  
   - [Benchmark: Loops with Linq, Parallel, and Span](https://github.com/Glareone/C-Advices/tree/main/Benchmarking/Looping-Foreach-Others/BenchmarkForDifferentLoops/BenchmarkForDifferentLoops)  
   - [Benchmark memory: ReadOnlySpan](https://github.com/Glareone/C-Advices/tree/main/ReadOnlySpan/Repo)  
@@ -52,6 +62,10 @@ Covered topics
 &#9744;  Benchmarking WebAPI and GC utilization in it. CQRS Cost. 
   - [Little CQRS + .Net5 project example](https://github.com/Glareone/CQRS-with-MediatR-.Net5)
   - Cost of CQRS. SPOILER: Around 5-8% depends on amount of memory allocated for your container with running application.
+
+&#9744; HybridCache in .Net8 (in progress)
+
+## Theory and practice
 
 &#9744; Data Structures
   - [MIT 6.851. "Advanced Data Structures" Course](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
