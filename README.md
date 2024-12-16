@@ -76,6 +76,10 @@ In this repository I will try to explain good concepts regarding Async, regardin
  
 &#9745; Console App with Generic Host. Running application from the pipeline. (useful for DB Migration)
 
+&#9745; Error Handling. RFC 9547 and RFC 7807, following IETF Standards
+  - [RFC 9547 Error handling using ProblemDetails](https://github.com/Glareone/Minimal-API-Controllerless-Fluent-Net8/tree/main/Chapters/MinimalAPI/Chapter12-API-Error-Format%20RFC%209457)
+  - [RFC 7807 Error handling using general approach](https://github.com/Glareone/Minimal-API-Controllerless-Fluent-Net8/tree/main/Chapters/MinimalAPI/Chapter04-ExceptionHandling)  
+
 **Allows to run any Tasks and use Host services lifetime. Might be useful to run EF DBMigrations from Pipeline or from another place**
 https://dfederm.com/building-a-console-app-with-.net-generic-host/
 
